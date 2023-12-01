@@ -4,7 +4,7 @@
   <a href="https://twitter.com/shazoldyk">Twitter</a>
 </p>
 
-<img align="right" height="150rem" alt="GIF" src="http://www.reddit.com/r/gifs/comments/3a57nb/when_suddenly_lost_wifi/" />
+<img align="right" height="150rem" alt="GIF" src="https://media.giphy.com/media/5Zesu5VPNGJlm/giphy.gif" />
 
 **Talking about Personal Stuffs:**
 
