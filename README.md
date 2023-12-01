@@ -1,4 +1,4 @@
-<h2 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm <a href="https://shwetang550.github.io/profile/">Shwetang</a></h2>
+<h2 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm <a href="https://shwetang550.github.io/profile/">Fasha</a></h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/shwetang-3335b896/">LinkedIN</a> •
   <a href="https://www.instagram.com/shwetang_singh/">Instagram</a> •
@@ -9,10 +9,10 @@
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻  I’m currently working on something cool :wink:.
+- 👨🏽‍💻  I’m currently working on something cool ♠️.
 - 🌱  I’m currently learning Python. 
 - 💬  Ask me about anything, I am happy to help.
-- 📫  How to reach me: shwetangsingh5@gmail.com.
+- 📫  How to reach me: @fashadimasibrahim.
 
 ***
 
@@ -20,10 +20,10 @@
 
 📈 My Github stats <br />
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shwetang550&theme=dark&show_icons=true" alt="shwetangStats" />  
+  <img src="https://github-readme-stats.vercel.app/api?username=uyauyapoh&theme=dark&show_icons=true" alt="shwetangStats" />  
   <br />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shwetang550&layout=compact&theme=dark" alt="top-langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uyauyapoh&layout=compact&theme=dark" alt="top-langs" />
 </p>
 
 *NOTE: 'Most Used Languages' does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
