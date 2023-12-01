@@ -1,11 +1,10 @@
 <h2 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm <a href="https://shwetang550.github.io/profile/">Fasha</a></h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/shwetang-3335b896/">LinkedIN</a> •
-  <a href="https://www.instagram.com/shwetang_singh/">Instagram</a> •
-  <a href="https://twitter.com/Shwetang550">Twitter</a>
+  <a href="https://www.instagram.com/fashadimasibrahim/">Instagram</a> •
+  <a href="https://twitter.com/shazoldyk">Twitter</a>
 </p>
 
-<img align="right" height="150rem" alt="GIF" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e47yrznhyd4w1cnwbe3hlilpmls3c0mrsymhdzmzp5z&rid=200w.webp" />
+<img align="right" height="150rem" alt="GIF" src="[https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e47yrznhyd4w1cnwbe3hlilpmls3c0mrsymhdzmzp5z&rid=200w.webp](https://media.giphy.com/media/5Zesu5VPNGJlm/giphy.gif?cid=ecf05e47tqsawpi32zhcge123fhdzdv44i0o5xar9m2kmd28&ep=v1_gifs_search&rid=giphy.gif&ct=g)" />
 
 **Talking about Personal Stuffs:**
 
